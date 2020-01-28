@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c497ee6c-9141-474e-99cc-801c7f21f64f" name="Default Changelist" comment="" />
+    <list default="true" id="c497ee6c-9141-474e-99cc-801c7f21f64f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EmployeeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/EmployeeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-EmployeeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-EmployeeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taskOne-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/taskOne-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taskOne-mav-1.0-SNAPSHOT-tests.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taskOne-mav-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -38,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -111,26 +125,26 @@
       <screen x="0" y="23" width="1280" height="694" />
     </state>
     <state x="230" y="23" key="#Project_Structure/0.23.1280.694@0.23.1280.694" timestamp="1580203892765" />
-    <state width="1218" height="308" key="GridCell.Tab.0.bottom" timestamp="1580218231393">
+    <state width="1218" height="308" key="GridCell.Tab.0.bottom" timestamp="1580226850998">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state width="1218" height="196" key="GridCell.Tab.0.bottom/0.23.1280.694@0.23.1280.694" timestamp="1580214894132" />
-    <state width="1218" height="308" key="GridCell.Tab.0.bottom/0.23.1280.698@0.23.1280.698" timestamp="1580218231393" />
-    <state width="1218" height="308" key="GridCell.Tab.0.center" timestamp="1580218231392">
+    <state width="1218" height="308" key="GridCell.Tab.0.bottom/0.23.1280.698@0.23.1280.698" timestamp="1580226850998" />
+    <state width="1218" height="308" key="GridCell.Tab.0.center" timestamp="1580226850997">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state width="1218" height="196" key="GridCell.Tab.0.center/0.23.1280.694@0.23.1280.694" timestamp="1580214894131" />
-    <state width="1218" height="308" key="GridCell.Tab.0.center/0.23.1280.698@0.23.1280.698" timestamp="1580218231392" />
-    <state width="1218" height="308" key="GridCell.Tab.0.left" timestamp="1580218231392">
+    <state width="1218" height="308" key="GridCell.Tab.0.center/0.23.1280.698@0.23.1280.698" timestamp="1580226850997" />
+    <state width="1218" height="308" key="GridCell.Tab.0.left" timestamp="1580226850997">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state width="1218" height="196" key="GridCell.Tab.0.left/0.23.1280.694@0.23.1280.694" timestamp="1580214894130" />
-    <state width="1218" height="308" key="GridCell.Tab.0.left/0.23.1280.698@0.23.1280.698" timestamp="1580218231392" />
-    <state width="1218" height="308" key="GridCell.Tab.0.right" timestamp="1580218231393">
+    <state width="1218" height="308" key="GridCell.Tab.0.left/0.23.1280.698@0.23.1280.698" timestamp="1580226850997" />
+    <state width="1218" height="308" key="GridCell.Tab.0.right" timestamp="1580226850998">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state width="1218" height="196" key="GridCell.Tab.0.right/0.23.1280.694@0.23.1280.694" timestamp="1580214894131" />
-    <state width="1218" height="308" key="GridCell.Tab.0.right/0.23.1280.698@0.23.1280.698" timestamp="1580218231393" />
+    <state width="1218" height="308" key="GridCell.Tab.0.right/0.23.1280.698@0.23.1280.698" timestamp="1580226850998" />
     <state width="1218" height="196" key="GridCell.Tab.1.bottom" timestamp="1580214894134">
       <screen x="0" y="23" width="1280" height="694" />
     </state>
@@ -147,6 +161,10 @@
       <screen x="0" y="23" width="1280" height="694" />
     </state>
     <state width="1218" height="196" key="GridCell.Tab.1.right/0.23.1280.694@0.23.1280.694" timestamp="1580214894133" />
+    <state x="118" y="23" key="SettingsEditor" timestamp="1580226711603">
+      <screen x="0" y="23" width="1280" height="698" />
+    </state>
+    <state x="118" y="23" key="SettingsEditor/0.23.1280.698@0.23.1280.698" timestamp="1580226711603" />
     <state x="309" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1580215254473">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
