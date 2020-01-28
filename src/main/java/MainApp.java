@@ -1,5 +1,7 @@
 public class MainApp {
     public static void main(String[] args) {
+
+        System.out.println("HELLO.................");
         Employee ali = new Employee("Ali", 3000);
         ali.incrementSalaryByPercentage(10.00005);//Increasing by 10.5%
 
